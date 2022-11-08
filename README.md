@@ -1,2 +1,2 @@
-# UNMSM-APP-COMEDOR
-Los comedores desempeñan una función nutricional y educativa importante, contribuyen a la adquisición de hábitos alimentarios y son marco de socialización y convivencia. Con el objetivo de fomentar la adquisición de hábitos alimentarios saludables entre los estudiantes.
+# PARCHS
+Actualmente, la empresa PARCHS se encuentra conformada en su totalidad por estudiantes de la Universidad Nacional Mayor de San Marcos, los cuales tienen como fundamento el desarrollo de aplicaciones y herramientas que apoyen el funcionamiento de la institución y mejoren la eficiencia en la gestión de procesos para la administración, como para aumentar la calidad de la experiencia de los usuarios estudiantes.
