@@ -6,10 +6,13 @@
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable/buguermenu_pantallaprincipal.xml" value="0.27" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/font/roboto.xml" value="0.25416666666666665" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_mostrar_ticket.xml" value="0.2966485507246377" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/app_bar_main.xml" value="0.18125" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/content_main.xml" value="0.18020833333333333" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/fragment_error.xml" value="0.22" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/fragment_home.xml" value="0.21822916666666667" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/fragment_menu_semanal.xml" value="0.22395833333333334" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/fragment_mostrar_ticket.xml" value="0.21822916666666667" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/info_burguermenu.xml" value="0.18125" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/lista_menu_semanal.xml" value="0.22395833333333334" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/menu/menu_layout.xml" value="0.371875" />

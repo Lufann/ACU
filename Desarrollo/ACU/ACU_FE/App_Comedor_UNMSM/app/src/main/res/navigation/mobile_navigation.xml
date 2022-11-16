@@ -9,7 +9,11 @@
         android:id="@+id/nav_home"
         android:name="com.example.app_comedor_unmsm.ui.home.HomeFragment"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_mostrar_ticket3"
+            app:destination="@id/nav_mostrar_ticket" />
+    </fragment>
 
     <fragment
         android:id="@+id/nav_menu_semanal"
@@ -22,4 +26,9 @@
         android:name="com.example.app_comedor_unmsm.ui.error.ErrorFragment"
         android:label="@string/menu_error"
         tools:layout="@layout/fragment_error" />
+    <fragment
+        android:id="@+id/nav_mostrar_ticket"
+        android:name="com.example.app_comedor_unmsm.ui.mostrarTicket.MostrarTicketFragment"
+        android:label="@string/mostrar_ticket"
+        tools:layout="@layout/fragment_mostrar_ticket" />
 </navigation>
