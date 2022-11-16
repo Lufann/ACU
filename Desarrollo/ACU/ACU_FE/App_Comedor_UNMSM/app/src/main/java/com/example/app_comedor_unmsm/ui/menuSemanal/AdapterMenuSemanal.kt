@@ -1,4 +1,4 @@
-package com.example.app_comedor_unmsm
+package com.example.app_comedor_unmsm.ui.menuSemanal
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,14 +6,17 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.app_comedor_unmsm.R
 
 class AdapterMenuSemanal: RecyclerView.Adapter<AdapterMenuSemanal.ViewHolder>() {
     val dates = arrayOf("Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado")
     val food = arrayOf("Pollo a la brasa", "Lomo Saltado", "Tacacho con Cecina",
         "Arroz con Pollo", "Arroz a la jardinera", "Pure de papas")
-    val images = intArrayOf(R.drawable.pollo,R.drawable.pollo,
-        R.drawable.tacacho,R.drawable.arrozpollo,
-        R.drawable.jardinera,R.drawable.pure)
+    val images = intArrayOf(
+        R.drawable.pollo, R.drawable.pollo,
+        R.drawable.tacacho, R.drawable.arrozpollo,
+        R.drawable.jardinera, R.drawable.pure
+    )
 
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ViewHolder {

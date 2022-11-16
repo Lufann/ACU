@@ -4,4 +4,9 @@
     <!-- Strings used for fragments for navigation -->
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
+
+
+    <string name="menu_home">Menu Principal</string>
+    <string name="menu_semanal">Menu Semanal</string>
+    <string name="menu_error">Informe de Errores</string>
 </resources>
