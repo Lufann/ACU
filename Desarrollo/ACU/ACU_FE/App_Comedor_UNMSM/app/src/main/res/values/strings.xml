@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Comedor_UNMSM</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+</resources>
