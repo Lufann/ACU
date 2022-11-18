@@ -9,4 +9,16 @@
     <color name="white">#FFFFFFFF</color>
     <color name="color_font">#353535</color>
     <color name="color_icons">#000000</color>
+
+    <!--App colours -->
+    <!-- Light theme -->
+    <color name="background_light_theme">#FAFAF9</color>
+    <color name="sm_bg_color">#70191C</color>
+    <color name="input_light_theme">#D6D3D1</color>
+    <color name="input_text_color_light_theme">#A8A29E</color>
+    <color name="input_text_color_password_light_theme">#5A5050</color>
+    <color name="btn_light_theme">#B51222</color>
+
+    <!-- Pantalla principal -->
+    <color name="colorContent">#F5F5F4</color>
 </resources>
