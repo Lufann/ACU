@@ -1,4 +1,4 @@
-package com.example.app_comedor_unmsm
+package com.example.app_comedor_unmsm.ui.menuSemanal
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.app_comedor_unmsm.R
 import kotlinx.android.synthetic.main.fragment_menu_semanal.*
 
 class MenuSemanalFragment : Fragment(R.layout.lista_menu_semanal) {
