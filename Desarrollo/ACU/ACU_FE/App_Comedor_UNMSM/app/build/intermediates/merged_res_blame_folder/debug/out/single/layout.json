@@ -1,38 +1,46 @@
 [
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_menu_semanal.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_menu_semanal.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\fragment_menu_semanal.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_main.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_main.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\lista_menu_semanal.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\lista_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_error.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_error.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\fragment_error.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_error.xml"
     },
     {
         "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/app_bar_main.xml",
         "source": "com.example.app_comedor_unmsm.app-main-48:/layout/app_bar_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/info_burguermenu.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/info_burguermenu.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_mostrar_ticket.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_mostrar_ticket.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\info_burguermenu.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\info_burguermenu.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/lista_menu_semanal.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/lista_menu_semanal.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\content_main.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/content_main.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/content_main.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_mostrar_ticket.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_mostrar_ticket.xml"
     },
     {
         "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_home.xml",
         "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\app_bar_main.xml"
     }
 ]

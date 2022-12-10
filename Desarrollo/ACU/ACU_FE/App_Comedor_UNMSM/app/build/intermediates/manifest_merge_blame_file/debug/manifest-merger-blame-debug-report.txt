@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml
+8-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml
+9-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
 11-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\manue\.gradle\caches\transforms-3\72d89173bda68211c52fc083c2d310ba\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
@@ -52,52 +52,52 @@
 30-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\manue\.gradle\caches\transforms-3\72d89173bda68211c52fc083c2d310ba\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
 31
 32    <application
-32-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:6:5-30:19
+32-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:6:5-30:19
 33        android:allowBackup="true"
-33-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:7:9-35
+33-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:7:9-35
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 34-->[androidx.core:core:1.8.0] C:\Users\manue\.gradle\caches\transforms-3\7590a1e12b0ebd656213122466fd387b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 35        android:dataExtractionRules="@xml/data_extraction_rules"
-35-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:8:9-65
+35-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:8:9-65
 36        android:debuggable="true"
 37        android:fullBackupContent="@xml/backup_rules"
-37-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:9:9-54
+37-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:9:9-54
 38        android:icon="@mipmap/ic_launcher"
-38-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:10:9-43
+38-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:10:9-43
 39        android:label="@string/app_name"
-39-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:11:9-41
+39-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:11:9-41
 40        android:roundIcon="@mipmap/ic_launcher_round"
-40-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:12:9-54
+40-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:12:9-54
 41        android:supportsRtl="true"
-41-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:13:9-35
+41-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:13:9-35
 42        android:testOnly="true"
 43        android:theme="@style/Theme.App_Comedor_UNMSM" >
-43-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:14:9-55
+43-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:14:9-55
 44        <activity
-44-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:16:9-18:40
+44-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:16:9-18:40
 45            android:name="com.example.app_comedor_unmsm.MostrarTicketActivity"
-45-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:17:13-50
+45-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:17:13-50
 46            android:exported="false" />
-46-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:18:13-37
+46-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:18:13-37
 47        <activity
-47-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:19:9-29:20
+47-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:19:9-29:20
 48            android:name="com.example.app_comedor_unmsm.MainActivity"
-48-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:20:13-41
+48-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:20:13-41
 49            android:exported="true"
-49-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:21:13-36
+49-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:21:13-36
 50            android:label="@string/app_name"
-50-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:22:13-45
+50-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:22:13-45
 51            android:theme="@style/Theme.App_Comedor_UNMSM.NoActionBar" >
-51-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:23:13-71
+51-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:23:13-71
 52            <intent-filter>
-52-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:24:13-28:29
+52-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:24:13-28:29
 53                <action android:name="android.intent.action.MAIN" />
-53-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:25:17-69
-53-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:25:25-66
+53-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:25:17-69
+53-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:25:25-66
 54
 55                <category android:name="android.intent.category.LAUNCHER" />
-55-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:27:17-77
-55-->D:\12\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:27:27-74
+55-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:27:17-77
+55-->C:\Users\manue\Music\PARCHS-main\Desarrollo\ACU\ACU_FE\App_Comedor_UNMSM\app\src\main\AndroidManifest.xml:27:27-74
 56            </intent-filter>
 57        </activity>
 58

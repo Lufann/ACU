@@ -1,226 +1,234 @@
 [
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_burguermenu_bar.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/burguermenu_bar.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_fragment_error.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_error.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_activity_mostrar_ticket.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_mostrar_ticket.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_burguermenu_semanal.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/burguermenu_semanal.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_errorbug.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/errorbug.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_lista_menu_semanal.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\lista_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_buguermenu_pantallaprincipal.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/buguermenu_pantallaprincipal.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_content_background.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\content_background.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_content_main.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/content_main.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_pure.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\pure.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/font_roboto_bold.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/font/roboto_bold.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/menu_menu_main.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/menu/menu_main.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\menu_menu_layout.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\menu\\menu_layout.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_activity_mostrar_ticket.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_mostrar_ticket.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_header_background.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\header_background.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_ic_baseline_reorder_24.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/ic_baseline_reorder_24.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_info_burguermenu.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/info_burguermenu.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_pure.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/pure.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\font\\roboto_bold.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_burguermenu_reportarbug.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\burguermenu_reportarbug.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_burguermenu_logout.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/burguermenu_logout.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_burguermenu_bar.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\burguermenu_bar.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_pollo.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/pollo.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-hdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_fragment_menu_semanal.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_menu_semanal.xml"
-    },
-    {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_fragment_error.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_error.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_app_bar_main.xml.flat",
         "source": "com.example.app_comedor_unmsm.app-main-48:/layout/app_bar_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_jardinera.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/jardinera.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\font\\roboto_medium.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_burguermenu_logout.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\burguermenu_logout.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_errorbug.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\errorbug.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/xml_backup_rules.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/font_roboto_medium.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/font/roboto_medium.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_jardinera.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\jardinera.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_tacacho.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/tacacho.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/font_roboto_light.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/font/roboto_light.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_lomo.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\lomo.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_burguermenu_reportarbug.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/burguermenu_reportarbug.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_fragment_menu_semanal.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_unmsm.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/unmsm.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_fran.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/fran.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_tacacho.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\tacacho.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\menu\\menu_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_pollo.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\pollo.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxxhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_fran.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\fran.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/navigation_mobile_navigation.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\font_roboto_light.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\font\\roboto_light.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/menu_menu_layout.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/menu/menu_layout.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_lista_menu_semanal.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/lista_menu_semanal.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_burguermenu_semanal.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\burguermenu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/font_roboto.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/font/roboto.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_arrozpollo.jpg.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\arrozpollo.jpg"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_header_background.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/header_background.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_button_background.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/button_background.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_ic_baseline_reorder_24.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\ic_baseline_reorder_24.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_arrozpollo.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/arrozpollo.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable-v24_unmsm.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable-v24\\unmsm.png"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_activity_main.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_main.xml"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\font\\roboto.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-mdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\button_background.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_lomo.jpg.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable-v24/lomo.jpg"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\layout_info_burguermenu.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\info_burguermenu.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\drawable_buguermenu_pantallaprincipal.xml.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\drawable\\buguermenu_pantallaprincipal.xml"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\manue\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\mipmap-xxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_fragment_home.xml.flat",
         "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
-    },
-    {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/drawable_content_background.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/drawable/content_background.xml"
     }
 ]

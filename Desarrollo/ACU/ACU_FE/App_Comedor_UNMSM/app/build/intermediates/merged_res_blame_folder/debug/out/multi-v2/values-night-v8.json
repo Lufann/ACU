@@ -4,7 +4,7 @@
             "outputFile": "com.example.app_comedor_unmsm.app-mergeDebugResources-44:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\12\\App_Comedor_UNMSM\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\manue\\Music\\PARCHS-main\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
