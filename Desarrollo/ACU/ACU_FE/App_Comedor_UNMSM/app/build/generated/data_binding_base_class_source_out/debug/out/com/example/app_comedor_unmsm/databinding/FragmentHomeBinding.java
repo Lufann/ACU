@@ -23,6 +23,9 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final Button buttonMostrarTicket;
+
+  @NonNull
   public final TextView dishText;
 
   @NonNull
@@ -76,7 +79,8 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final TextView texto;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView dishText,
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView,
+      @NonNull Button buttonMostrarTicket, @NonNull TextView dishText,
       @NonNull ConstraintLayout homeFragment, @NonNull ImageView imagePlato,
       @NonNull ImageView imageUser, @NonNull CardView imgHolder,
       @NonNull ConstraintLayout layoutContent1, @NonNull ConstraintLayout layoutContent2,
@@ -85,6 +89,7 @@ public final class FragmentHomeBinding implements ViewBinding {
       @NonNull TextView shift3, @NonNull TextView shiftText, @NonNull Button showButton,
       @NonNull TextView textHello, @NonNull TextView textUsername, @NonNull TextView texto) {
     this.rootView = rootView;
+    this.buttonMostrarTicket = buttonMostrarTicket;
     this.dishText = dishText;
     this.homeFragment = homeFragment;
     this.imagePlato = imagePlato;
@@ -132,6 +137,12 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.buttonMostrarTicket;
+      Button buttonMostrarTicket = ViewBindings.findChildViewById(rootView, id);
+      if (buttonMostrarTicket == null) {
+        break missingId;
+      }
+
       id = R.id.dishText;
       TextView dishText = ViewBindings.findChildViewById(rootView, id);
       if (dishText == null) {
@@ -236,10 +247,10 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, dishText, homeFragment,
-          imagePlato, imageUser, imgHolder, layoutContent1, layoutContent2, layoutSaludo, menuText,
-          reserveButton, shift1, shift2, shift3, shiftText, showButton, textHello, textUsername,
-          texto);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, buttonMostrarTicket, dishText,
+          homeFragment, imagePlato, imageUser, imgHolder, layoutContent1, layoutContent2,
+          layoutSaludo, menuText, reserveButton, shift1, shift2, shift3, shiftText, showButton,
+          textHello, textUsername, texto);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
