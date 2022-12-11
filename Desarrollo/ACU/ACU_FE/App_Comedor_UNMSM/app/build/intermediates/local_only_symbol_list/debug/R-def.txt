@@ -44,6 +44,7 @@ font roboto_bold
 font roboto_light
 font roboto_medium
 id app_bar_main
+id buttonMostrarTicket
 id buttonVolverMostrarTicket
 id card_view
 id dishText
