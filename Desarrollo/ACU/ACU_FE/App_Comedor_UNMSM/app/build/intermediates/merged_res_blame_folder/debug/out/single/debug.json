@@ -192,6 +192,10 @@
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/drawable/ic_baseline_reorder_24.xml"
     },
     {
+        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_lista_turnos.xml.flat",
+        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/lista_turnos.xml"
+    },
+    {
         "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_jardinera.jpg.flat",
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/drawable-v24/jardinera.jpg"
     },
@@ -234,9 +238,5 @@
     {
         "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-merged_res-46:/drawable-v24_tacacho.jpg.flat",
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/drawable-v24/tacacho.jpg"
-    },
-    {
-        "merged": "com.example.app_comedor_unmsm.app-merged_res-46:/layout_fragment_home.xml.flat",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
     }
 ]

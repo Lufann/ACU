@@ -78,6 +78,7 @@ array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array preloaded_fonts
+array turnos
 attr SharedValue
 attr SharedValueId
 attr action
@@ -3241,6 +3242,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id texto
+id texto_turnos
 id time
 id title
 id titleDividerNoCustom
@@ -3443,6 +3445,7 @@ layout fragment_home
 layout fragment_menu_semanal
 layout info_burguermenu
 layout lista_menu_semanal
+layout lista_turnos
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3674,7 +3677,11 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string seleccionar
 string status_bar_notification_info_overflow
+string turno1
+string turno2
+string turno3
 string zxing_app_name
 string zxing_button_ok
 string zxing_msg_camera_framework_bug

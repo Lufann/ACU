@@ -77,6 +77,7 @@ int array com_google_android_gms_fonts_certs 0x7f030000
 int array com_google_android_gms_fonts_certs_dev 0x7f030001
 int array com_google_android_gms_fonts_certs_prod 0x7f030002
 int array preloaded_fonts 0x7f030003
+int array turnos 0x7f030004
 int attr SharedValue 0x7f040000
 int attr SharedValueId 0x7f040001
 int attr action 0x7f040002
@@ -3240,6 +3241,7 @@ int id textinput_placeholder 0x7f0a01f2
 int id textinput_prefix_text 0x7f0a01f3
 int id textinput_suffix_text 0x7f0a01f4
 int id texto 0x7f0a01f5
+int id texto_turnos 0x7f0a022d
 int id time 0x7f0a01f6
 int id title 0x7f0a01f7
 int id titleDividerNoCustom 0x7f0a01f8
@@ -3442,6 +3444,7 @@ int layout fragment_home 0x7f0d0032
 int layout fragment_menu_semanal 0x7f0d0033
 int layout info_burguermenu 0x7f0d0034
 int layout lista_menu_semanal 0x7f0d0035
+int layout lista_turnos 0x7f0d0072
 int layout m3_alert_dialog 0x7f0d0036
 int layout m3_alert_dialog_actions 0x7f0d0037
 int layout m3_alert_dialog_title 0x7f0d0038
@@ -3673,7 +3676,11 @@ int string path_password_eye_mask_strike_through 0x7f14009e
 int string path_password_eye_mask_visible 0x7f14009f
 int string path_password_strike_through 0x7f1400a0
 int string search_menu_title 0x7f1400a1
+int string seleccionar 0x7f1400a7
 int string status_bar_notification_info_overflow 0x7f1400a2
+int string turno1 0x7f1400a8
+int string turno2 0x7f1400a9
+int string turno3 0x7f1400aa
 int string zxing_app_name 0x7f1400a3
 int string zxing_button_ok 0x7f1400a4
 int string zxing_msg_camera_framework_bug 0x7f1400a5

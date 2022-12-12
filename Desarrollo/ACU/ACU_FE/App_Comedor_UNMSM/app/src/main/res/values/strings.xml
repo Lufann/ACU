@@ -5,6 +5,16 @@
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
 
+    <!-- Reservar Turno -->
+    <string name="seleccionar">Selecionar Turno</string>
+    <string name="turno1">1</string>
+    <string name="turno2">2</string>
+    <string name="turno3">3</string>
+    <string-array name="turnos">
+        <item>@string/turno1</item>
+        <item>@string/turno2</item>
+        <item>@string/turno3</item>
+    </string-array>
 
     <string name="menu_home">Menu Principal</string>
     <string name="menu_semanal">Menu Semanal</string>

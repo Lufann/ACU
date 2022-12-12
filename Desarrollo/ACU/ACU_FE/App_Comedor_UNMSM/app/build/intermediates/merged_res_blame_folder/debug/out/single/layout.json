@@ -28,6 +28,10 @@
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
     },
     {
+        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/lista_turnos.xml",
+        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/lista_turnos.xml"
+    },
+    {
         "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/info_burguermenu.xml",
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/info_burguermenu.xml"
     },
@@ -38,9 +42,5 @@
     {
         "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_main.xml",
         "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_home.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
     }
 ]

@@ -4,6 +4,7 @@ array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array preloaded_fonts
+array turnos
 color background_light_theme
 color black
 color btn_light_theme
@@ -100,6 +101,7 @@ id textUsernameMostrar
 id textView
 id textView_userName
 id texto
+id texto_turnos
 id toolbar
 layout activity_main
 layout activity_mostrar_ticket
@@ -111,6 +113,7 @@ layout fragment_home
 layout fragment_menu_semanal
 layout info_burguermenu
 layout lista_menu_semanal
+layout lista_turnos
 menu menu_layout
 menu menu_main
 mipmap ic_launcher
@@ -127,6 +130,10 @@ string menu_home
 string menu_semanal
 string mostrar_ticket
 string open_drawer
+string seleccionar
+string turno1
+string turno2
+string turno3
 style Theme.App_Comedor_UNMSM
 style Theme.App_Comedor_UNMSM.AppBarOverlay
 style Theme.App_Comedor_UNMSM.NoActionBar
