@@ -2004,6 +2004,8 @@ dimen abc_text_size_subhead_material
 dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
 dimen appcompat_dialog_background_inset
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
@@ -2630,6 +2632,7 @@ drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
 drawable btn_checkbox_unchecked_to_checked_mtrl_animation
+drawable btn_form_bg
 drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
@@ -2659,8 +2662,14 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_outline_lock_24
+drawable ic_outline_visibility_24
+drawable ic_outline_visibility_off_24
 drawable img
 drawable jardinera
+drawable login
+drawable login_background_container
+drawable login_input_form_bg
 drawable lomo
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2670,6 +2679,7 @@ drawable m3_tabs_background
 drawable m3_tabs_line_indicator
 drawable m3_tabs_rounded_line_indicator
 drawable m3_tabs_transparent_background
+drawable mail_login_icon
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2733,6 +2743,8 @@ drawable notify_panel_notification_icon_bg
 drawable pollo
 drawable pure
 drawable reservar_iconfood
+drawable splashscreen
+drawable splashscreen_img
 drawable tacacho
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2922,6 +2934,7 @@ id easeOut
 id east
 id edit_query
 id elastic
+id email_field
 id embed
 id end
 id endToStart
@@ -2974,6 +2987,7 @@ id ignoreRequest
 id image
 id imagePlato
 id imageUser
+id imageView
 id imageView2
 id imgHolder
 id imgbarras
@@ -3001,10 +3015,13 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id locale
+id login_btn
 id ltr
+id mail_layout
 id mainLayout
 id marquee
 id masked
@@ -3104,6 +3121,8 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password_field
+id password_layout
 id password_toggle
 id path
 id pathRelative
@@ -3231,6 +3250,8 @@ id textTurnoMostrar
 id textUsername
 id textUsernameMostrar
 id textView
+id textView2
+id textView3
 id textView_userName
 id text_input_end_icon
 id text_input_error_icon
@@ -3272,6 +3293,7 @@ id view_tree_lifecycle_owner
 id view_tree_on_back_pressed_dispatcher_owner
 id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
+id visibilityIcon
 id visible
 id visible_removing_fragment_view_tag
 id west
@@ -3419,6 +3441,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout activity_mostrar_ticket
 layout activity_reservar_ticket
@@ -3543,6 +3566,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_settings
+string action_sign_in
+string action_sign_in_short
 string androidx_startup
 string app_name
 string app_version
@@ -3567,6 +3592,8 @@ string fab_transformation_sheet_behavior
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string invalid_password
+string invalid_username
 string item_view_role_description
 string library_zxingandroidembedded_author
 string library_zxingandroidembedded_authorWebsite
@@ -3577,6 +3604,9 @@ string library_zxingandroidembedded_libraryVersion
 string library_zxingandroidembedded_libraryWebsite
 string library_zxingandroidembedded_licenseId
 string library_zxingandroidembedded_repositoryLink
+string login_failed
+string login_forget_password
+string login_tittle
 string m3_sys_motion_easing_emphasized
 string m3_sys_motion_easing_emphasized_accelerate
 string m3_sys_motion_easing_emphasized_decelerate
@@ -3588,6 +3618,8 @@ string m3_sys_motion_easing_linear
 string m3_sys_motion_easing_standard
 string m3_sys_motion_easing_standard_accelerate
 string m3_sys_motion_easing_standard_decelerate
+string mail_inner_label
+string mail_label
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection
@@ -3671,17 +3703,23 @@ string mtrl_timepicker_confirm
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string open_drawer
+string password_inner_label
+string password_label
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string prompt_email
+string prompt_password
 string search_menu_title
 string seleccionar
 string status_bar_notification_info_overflow
+string title_activity_login
 string turno1
 string turno2
 string turno3
+string welcome
 string zxing_app_name
 string zxing_button_ok
 string zxing_msg_camera_framework_bug
@@ -4054,6 +4092,7 @@ style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day
 style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen
 style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year
 style ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox
+style SplashTheme
 style TextAppearance_AppCompat
 style TextAppearance_AppCompat_Body1
 style TextAppearance_AppCompat_Body2

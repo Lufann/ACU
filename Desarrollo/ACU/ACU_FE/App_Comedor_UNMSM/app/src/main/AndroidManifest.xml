@@ -3,6 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.app_comedor_unmsm">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,20 +17,25 @@
         android:theme="@style/Theme.App_Comedor_UNMSM"
         tools:targetApi="31">
         <activity
-            android:name=".ReservarTicketActivity"
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.App_Comedor_UNMSM.NoActionBar"
+            />
+        <activity
+            android:name=".ui.ticket.ReservarTicketActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".MostrarTicketActivity"
+            android:name=".ui.ticket.MostrarTicketActivity"
             android:exported="false" />
+
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.App_Comedor_UNMSM.NoActionBar">
+            android:name=".ui.login.LoginActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

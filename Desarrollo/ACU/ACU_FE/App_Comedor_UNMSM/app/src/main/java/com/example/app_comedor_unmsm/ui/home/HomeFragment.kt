@@ -5,12 +5,9 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentTransaction
-import com.example.app_comedor_unmsm.MostrarTicketActivity
-import com.example.app_comedor_unmsm.R
-import com.example.app_comedor_unmsm.ReservarTicketActivity
+import com.example.app_comedor_unmsm.ui.ticket.MostrarTicketActivity
+import com.example.app_comedor_unmsm.ui.ticket.ReservarTicketActivity
 import com.example.app_comedor_unmsm.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
@@ -20,9 +17,9 @@ class HomeFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View?
     {
-        val bind = FragmentHomeBinding.inflate(layoutInflater)
+       val bind = FragmentHomeBinding.inflate(layoutInflater)
        bind.MostrarTicketBoton.setOnClickListener{
-            val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java)
+            val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java).apply {  }
             startActivity((intent))
        }
         bind.ReservarTicketBoton.setOnClickListener {

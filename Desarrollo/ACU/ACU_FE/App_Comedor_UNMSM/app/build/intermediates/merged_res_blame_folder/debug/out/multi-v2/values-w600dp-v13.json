@@ -4,14 +4,31 @@
             "outputFile": "com.example.app_comedor_unmsm.app-mergeDebugResources-44:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "/media/phoenixblue02/Disco local/Android/AndroidStudioProjects/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/values-w600dp/preloaded_fonts.xml",
+                    "source": "F:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,16",
+                        "endColumns": "57,41",
+                        "endOffsets": "111,53"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "3795,3853",
+                        "endColumns": "57,41",
+                        "endOffsets": "3848,3890"
+                    }
+                },
+                {
+                    "source": "F:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\src\\main\\res\\values-w600dp\\preloaded_fonts.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
+                        "startOffsets": "57",
                         "endLines": "7",
                         "endColumns": "12",
-                        "endOffsets": "273"
+                        "endOffsets": "280"
                     },
                     "to": {
                         "startLines": "16",
@@ -23,31 +40,22 @@
                     }
                 },
                 {
-                    "source": "/media/phoenixblue02/Disco local/Android/AndroidStudioProjects/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/values-w600dp/font_certs.xml",
+                    "source": "F:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\src\\main\\res\\values-w600dp\\font_certs.xml",
                     "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,263,1993",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "257,1987,3582"
+                    },
+                    "to": {
                         "startLines": "2,6,11",
                         "startColumns": "4,4,4",
                         "startOffsets": "55,257,1982",
                         "endLines": "5,10,15",
                         "endColumns": "12,19,19",
                         "endOffsets": "252,1977,3567"
-                    }
-                },
-                {
-                    "source": "/media/phoenixblue02/Disco local/Android/AndroidStudioProjects/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/values-w600dp/dimens.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "41",
-                        "endOffsets": "53"
-                    },
-                    "to": {
-                        "startLines": "22",
-                        "startColumns": "4",
-                        "startOffsets": "3795",
-                        "endColumns": "41",
-                        "endOffsets": "3832"
                     }
                 }
             ]

@@ -29,4 +29,10 @@
         <item name="android:colorBackground">@color/white</item>
         <item name="android:textColor">@color/black</item>
     </style>
+
+    <style name="SplashTheme" parent="Theme.App_Comedor_UNMSM">
+        <item name="android:windowBackground">
+            @drawable/splashscreen
+        </item>
+    </style>
 </resources>
