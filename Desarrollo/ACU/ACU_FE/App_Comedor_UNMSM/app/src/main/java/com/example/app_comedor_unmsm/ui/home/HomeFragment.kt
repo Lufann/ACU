@@ -19,7 +19,7 @@ class HomeFragment : Fragment() {
     {
         val bind = FragmentHomeBinding.inflate(layoutInflater)
        bind.MostrarTicketBoton.setOnClickListener{
-            val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java)
+            val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java).apply {  }
             startActivity((intent))
        }
         bind.ReservarTicketBoton.setOnClickListener {

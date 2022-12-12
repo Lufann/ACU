@@ -12,6 +12,7 @@ import androidx.drawerlayout.widget.DrawerLayout
 import api.HTTPClient
 import com.example.app_comedor_unmsm.MainActivity
 import com.example.app_comedor_unmsm.R
+import com.example.app_comedor_unmsm.databinding.ActivityLoginBinding
 import com.example.app_comedor_unmsm.databinding.ActivityMainBinding
 import com.google.android.material.navigation.NavigationView
 import io.ktor.client.call.*
@@ -24,13 +25,13 @@ class LoginActivity : AppCompatActivity() {
         var logout : Boolean = false
     }
 
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityLoginBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         Thread.sleep(1000)
         setTheme(R.style.Theme_App_Comedor_UNMSM)
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
     }
 
