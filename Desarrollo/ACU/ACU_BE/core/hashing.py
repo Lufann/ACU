@@ -1,11 +1,13 @@
 from passlib.context import CryptContext
-
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 
 class Hasher():
     @staticmethod
     def verify_password(plain_password, hashed_password):
+        print(plain_password)
+        print(hashed_password)
+        print(Hasher.get_password_hash(plain_password))
         return pwd_context.verify(plain_password, hashed_password)
 
     @staticmethod

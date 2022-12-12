@@ -12,18 +12,19 @@ from fastapi import status, HTTPException
 router = APIRouter()
 
 
-@router.post("/create-Estudiante/", response_model=ShowEstudiante)
-def create_estudiante(estudiante: EstudianteCreate, db: Session = Depends(get_db), current_estudiante: Estudiante = Depends(get_current_estudiante_from_token)):
-    if current_estudiante.is_superEstudiante:
+@router.post("/create-estudiante/", response_model=ShowEstudiante)
+def create_estudiante(estudiante: EstudianteCreate, db: Session = Depends(get_db), admin: Estudiante = Depends(get_current_estudiante_from_token)):
+    if admin.es_jedi:
         estudiante = create_new_estudiante(estudiante=estudiante, db=db)
         return estudiante
     raise HTTPException(
         status_code=status.HTTP_401_UNAUTHORIZED,
-        detail=f"Usuario con codigo {current_estudiante.code} no tiene autorizacion para crear nuevos usuarios"
+        detail=f"Usuario con codigo {admin.code} no tiene autorizacion para crear nuevos usuarios"
     )
 
 
-@router.get("/read-Estudiante", response_model=ShowFullEstudiante)
+@router.get("/read-estudiante", response_model=ShowFullEstudiante)
 def read_estudiante_from_token(db: Session = Depends(get_db), current_estudiante: Estudiante = Depends(get_current_estudiante_from_token)):
-    estudiante = get_estudiante_by_code(current_estudiante.code, db=db)
+    estudiante = get_estudiante_by_code(
+        current_estudiante.codigo_estudiante, db=db)
     return estudiante

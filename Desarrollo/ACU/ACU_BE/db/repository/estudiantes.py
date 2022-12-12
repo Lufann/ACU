@@ -6,14 +6,15 @@ from core.hashing import Hasher
 
 def create_new_estudiante(estudiante: EstudianteCreate, db: Session):
     estudiante = Estudiante(
-        email=estudiante.email,
-        hashed_password=Hasher.get_password_hash(estudiante.password),
-        code=estudiante.code,
-        names=estudiante.names,
-        lastnames=estudiante.lastnames,
-        profile_photo_url=estudiante.profile_photo_url,
-        is_banned=False,
-        is_superestudiante=estudiante.is_superestudiante
+        codigo_estudiante=estudiante.codigo_estudiante,
+        correo=estudiante.correo,
+        password=Hasher.get_password_hash(estudiante.password),
+        nombres=estudiante.nombres,
+        apellido_pat=estudiante.apellido_pat,
+        apellido_mat=estudiante.apellido_mat,
+        foto_url=estudiante.foto_url,
+        esta_penalizado=False,
+        es_jedi=False
     )
     db.add(estudiante)
     db.commit()
@@ -22,10 +23,12 @@ def create_new_estudiante(estudiante: EstudianteCreate, db: Session):
 
 
 def get_estudiante_by_code(code: str, db: Session):
-    estudiante = db.query(Estudiante).filter(Estudiante.code == code).first()
+    estudiante = db.query(Estudiante).filter(
+        Estudiante.codigo_estudiante == code).first()
     return estudiante
 
 
 def get_estudiante_by_email(email: str, db: Session):
-    estudiante = db.query(Estudiante).filter(Estudiante.email == email).first()
+    estudiante = db.query(Estudiante).filter(
+        Estudiante.correo == email).first()
     return estudiante

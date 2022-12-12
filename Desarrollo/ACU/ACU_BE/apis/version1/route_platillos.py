@@ -11,11 +11,11 @@ from db.repository.platillos import create_new_platillo, retreive_platillo, retr
 router = APIRouter()
 
 
-@router.post("/create-dish/", response_model=ShowPlatillo)
-def create_platillo(dish: PlatilloCreate, db: Session = Depends(get_db), current_user: Estudiante = Depends(get_current_estudiante_from_token)):
-    if current_user.is_superuser:
-        dish = create_new_platillo(dish=dish, db=db)
-        return dish
+@router.post("/create-platillo/", response_model=ShowPlatillo)
+def create_platillo(platillo: PlatilloCreate, db: Session = Depends(get_db), current_user: Estudiante = Depends(get_current_estudiante_from_token)):
+    if current_user.es_jedi:
+        platillo = create_new_platillo(platillo=platillo, db=db)
+        return platillo
     raise HTTPException(
         status_code=status.HTTP_401_UNAUTHORIZED,
         detail=f"Usuario con codigo {current_user.code} no tiene autorizacion para crear nuevos platos"
@@ -24,17 +24,17 @@ def create_platillo(dish: PlatilloCreate, db: Session = Depends(get_db), current
 
 @router.get("/get/all")
 def read_all_dishes(db: Session = Depends(get_db)):
-    dishes = retreive_all_platillos(db)
-    if not dishes:
+    platillos = retreive_all_platillos(db)
+    if not platillos:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
                             detail=f"No se encuentran registros de los platos")
-    return dishes
+    return platillos
 
 
 @router.get("/get/{id}", response_model=ShowPlatillo)
 def read_dish(id: int, db: Session = Depends(get_db)):
-    dish = retreive_platillo(id=id, db=db)
-    if not dish:
+    platillo = retreive_platillo(id=id, db=db)
+    if not platillo:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
                             detail=f"Dish with this id {id} does not exist")
-    return dish
+    return platillo

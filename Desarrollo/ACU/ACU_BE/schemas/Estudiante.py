@@ -11,10 +11,11 @@ class EstudianteCreate(BaseModel):
     apellido_mat: str
     foto_url: str
     esta_penalizado: bool
+    es_jedi: bool
 
 
 class ShowEstudiante(BaseModel):
-    email: EmailStr
+    correo: EmailStr
     codigo_estudiante: str
     esta_penalizado: bool
 
@@ -23,12 +24,13 @@ class ShowEstudiante(BaseModel):
 
 
 class ShowFullEstudiante(BaseModel):
-    email: EmailStr
+    correo: EmailStr
     codigo_estudiante: str
     nombres: str
     apellido_pat: str
     apellido_mat: str
     foto_url: str
+    es_jedi: bool
 
     class Config():  # convert dict or non dict obj to json
         orm_mode = True
