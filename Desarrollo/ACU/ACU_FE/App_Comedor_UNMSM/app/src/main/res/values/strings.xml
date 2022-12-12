@@ -5,6 +5,14 @@
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
 
+    <!--Login -->
+    <string name="login_tittle">Iniciar sesión</string>
+    <string name="login_forget_password">¿No recuerdas tu contraseña?</string>
+    <string name="mail_label">Correo universitario</string>
+    <string name="mail_inner_label">correo</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_inner_label">contraseña</string>
+
     <!-- Reservar Turno -->
     <string name="seleccionar">Selecionar Turno</string>
     <string name="turno1">1</string>
@@ -16,6 +24,7 @@
         <item>@string/turno3</item>
     </string-array>
 
+    <!-- NavBar-->
     <string name="menu_home">Menu Principal</string>
     <string name="menu_semanal">Menu Semanal</string>
     <string name="menu_error">Informe de Errores</string>

@@ -8,10 +8,6 @@
         "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\lista_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_mostrar_ticket.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_mostrar_ticket.xml"
-    },
-    {
         "merged": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\fragment_menu_semanal.xml",
         "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\fragment_menu_semanal.xml"
     },
@@ -36,16 +32,16 @@
         "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\info_burguermenu.xml"
     },
     {
-        "merged": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_main.xml"
+        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_mostrar_ticket.xml",
         "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_mostrar_ticket.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_reservar_ticket.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_reservar_ticket.xml"
+        "merged": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-main-48:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\jj-08\\.gradle\\daemon\\7.3.3\\com.example.app_comedor_unmsm.app-mergeDebugResources-45:\\layout\\activity_reservar_ticket.xml",

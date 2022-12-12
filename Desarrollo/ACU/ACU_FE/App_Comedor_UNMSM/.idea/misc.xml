@@ -21,9 +21,17 @@
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/fragment_menu_semanal.xml" value="0.19166666666666668" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/ACU/Desarrollo/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/lista_menu_semanal.xml" value="0.19166666666666668" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/btn_form_bg.xml" value="0.2785" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/ic_outline_lock_24.xml" value="0.203" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/ic_outline_visibility_24.xml" value="0.2685" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/ic_outline_visibility_off_24.xml" value="0.203" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/login_background_container.xml" value="0.2785" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/login_input_form_bg.xml" value="0.2785" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/mail_login_icon.xml" value="0.203" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/splashscreen.xml" value="0.2685" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2389558232931727" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout-w936dp/activity_login.xml" value="0.27890625" />
-        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_login.xml" value="0.18085106382978725" />
+        <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/.FILES_CODE/.Proyecto-Gestion Calidad Software/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/src/main/res/layout/activity_mostrar_ticket.xml" value="0.371875" />
         <entry key="..\:/.FILES_CODE/App_Comedor_UNMSM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.257" />
         <entry key="..\:/.FILES_CODE/App_Comedor_UNMSM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.257" />
