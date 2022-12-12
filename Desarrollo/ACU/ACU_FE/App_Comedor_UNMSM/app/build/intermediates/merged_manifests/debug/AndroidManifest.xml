@@ -29,6 +29,12 @@
         android:name="android.hardware.wifi"
         android:required="false" />
 
+    <permission
+        android:name="com.example.app_comedor_unmsm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.app_comedor_unmsm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -41,6 +47,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.App_Comedor_UNMSM" >
+        <activity
+            android:name="com.example.app_comedor_unmsm.ReservarTicketActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity
             android:name="com.example.app_comedor_unmsm.MostrarTicketActivity"
             android:exported="false" />
@@ -72,10 +85,6 @@
             android:windowSoftInputMode="stateAlwaysHidden" />
 
         <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.example.app_comedor_unmsm.com.squareup.picasso"
-            android:exported="false" />
-        <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.example.app_comedor_unmsm.androidx-startup"
             android:exported="false" >
@@ -86,6 +95,10 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
         </provider>
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.app_comedor_unmsm.com.squareup.picasso"
+            android:exported="false" />
     </application>
 
 </manifest>

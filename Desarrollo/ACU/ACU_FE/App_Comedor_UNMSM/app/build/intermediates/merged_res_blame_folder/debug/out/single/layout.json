@@ -1,35 +1,43 @@
 [
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_menu_semanal.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_menu_semanal.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/lista_menu_semanal.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/lista_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_main.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_main.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_reservar_ticket.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/activity_reservar_ticket.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_error.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/fragment_error.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_mostrar_ticket.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/activity_mostrar_ticket.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/app_bar_main.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/app_bar_main.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/app_bar_main.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/app_bar_main.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/info_burguermenu.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/info_burguermenu.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_menu_semanal.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/fragment_menu_semanal.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_mostrar_ticket.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/activity_mostrar_ticket.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_error.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/fragment_error.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/lista_menu_semanal.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/lista_menu_semanal.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/content_main.xml",
-        "source": "com.example.app_comedor_unmsm.app-main-48:/layout/content_main.xml"
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/info_burguermenu.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/info_burguermenu.xml"
+    },
+    {
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/content_main.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "/home/phoenixblue02/.gradle/daemon/7.4/com.example.app_comedor_unmsm.app-main-48:/layout/activity_main.xml"
     },
     {
         "merged": "com.example.app_comedor_unmsm.app-mergeDebugResources-45:/layout/fragment_home.xml",

@@ -227,7 +227,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <Button
-        android:id="@+id/reserveButton"
+        android:id="@+id/ReservarTicketBoton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
@@ -238,13 +238,13 @@
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="16sp"
-        app:layout_constraintEnd_toStartOf="@+id/showButton"
+        app:layout_constraintEnd_toStartOf="@+id/MostrarTicketBoton"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/layoutContent2" />
 
     <Button
-        android:id="@+id/showButton"
+        android:id="@+id/MostrarTicketBoton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="40dp"
@@ -255,28 +255,7 @@
         android:textColor="@color/white"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="@id/reserveButton" />
-        android:text="Pantalla Principal"
-        android:textAlignment="center"
-        android:textColor="@color/black"
-        android:textSize="42dp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="@id/ReservarTicketBoton" />
 
-    <Button
-        android:id="@+id/buttonMostrarTicket"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Mostrar Ticket"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/texto"
-        app:layout_constraintVertical_bias="0.281" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
