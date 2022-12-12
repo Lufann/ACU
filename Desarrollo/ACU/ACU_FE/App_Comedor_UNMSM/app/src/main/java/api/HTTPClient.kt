@@ -61,7 +61,7 @@ class HTTPClient {
         val currentDate = SimpleDateFormat("dd-MM-yyyy", Locale.getDefault()).format(Date())
         val currentTime = SimpleDateFormat("HH:mm:ss", Locale.getDefault()).format(Date())
 
-        val newTicket = Ticket(codigo_ticket, numero_turno, false, codigo_estudiante)
+        val newTicket = Ticket(codigo_ticket, numero_turno, false,currentDate+" "+currentTime, codigo_estudiante)
         val url= baseUrl + "/tickets/create-ticket/"
 
         val data: String = Gson().toJson(newTicket)
