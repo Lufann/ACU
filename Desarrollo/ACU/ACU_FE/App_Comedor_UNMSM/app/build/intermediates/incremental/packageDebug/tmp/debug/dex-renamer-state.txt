@@ -1,4 +1,4 @@
-#Mon Dec 12 15:54:03 PET 2022
+#Mon Dec 12 16:25:46 COT 2022
 path.4=15/classes.dex
 path.3=13/classes.dex
 path.2=11/classes.dex
@@ -7,19 +7,19 @@ path.7=classes2.dex
 path.6=7/classes.dex
 path.5=3/classes.dex
 path.0=classes.dex
-base.4=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
-base.3=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.2=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.1=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.0=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.4=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.3=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.7=classes8.dex
 renamed.6=classes7.dex
-base.7=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.7=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 renamed.5=classes6.dex
-base.6=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.6=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 renamed.4=classes5.dex
-base.5=/media/phoenixblue02/Disco local/PARCHS/PARCHS/Desarrollo/ACU/ACU_FE/App_Comedor_UNMSM/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.5=F\:\\.FILES_CODE\\.Proyecto-Gestion Calidad Software\\PARCHS\\Desarrollo\\ACU\\ACU_FE\\App_Comedor_UNMSM\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
