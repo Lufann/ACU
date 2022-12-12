@@ -24,7 +24,7 @@ class HTTPClient {
             exponentialDelay()
         }
     }
-    private val baseUrl = "https://gcc-comedor-api.onrender.com/docs"
+    private val baseUrl = "https://gcc-comedor-api.onrender.com"
     private val c = Calendar.getInstance()
 
     suspend fun getDishInfo(): String {

@@ -51,7 +51,9 @@
         android:theme="@style/Theme.App_Comedor_UNMSM" >
         <activity
             android:name="com.example.app_comedor_unmsm.MainActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.App_Comedor_UNMSM.NoActionBar" />
         <activity
             android:name="com.example.app_comedor_unmsm.ui.ticket.ReservarTicketActivity"
             android:exported="false" >
@@ -64,8 +66,7 @@
             android:exported="false" />
         <activity
             android:name="com.example.app_comedor_unmsm.ui.login.LoginActivity"
-            android:exported="true"
-            android:theme="@style/Theme.App_Comedor_UNMSM.NoActionBar" >
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
