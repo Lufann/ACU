@@ -78,6 +78,7 @@ array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array preloaded_fonts
+array turnos
 attr SharedValue
 attr SharedValueId
 attr action
@@ -2658,6 +2659,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img
 drawable jardinera
 drawable lomo
 drawable m3_appbar_background
@@ -2730,6 +2732,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pollo
 drawable pure
+drawable reservar_iconfood
 drawable tacacho
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2745,7 +2748,9 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
+id MostrarTicketBoton
 id NO_DEBUG
+id ReservarTicketBoton
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2834,12 +2839,12 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
+id botonreservar
 id bottom
 id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id buttonMostrarTicket
 id buttonPanel
 id buttonVolverMostrarTicket
 id cache_measures
@@ -2969,6 +2974,7 @@ id ignoreRequest
 id image
 id imagePlato
 id imageUser
+id imageView2
 id imgHolder
 id imgbarras
 id immediateStop
@@ -3024,6 +3030,7 @@ id material_timepicker_view
 id material_value_index
 id matrix
 id menuText
+id menuturnos
 id message
 id middle
 id mini
@@ -3113,7 +3120,6 @@ id radio
 id ratio
 id rectangles
 id recyclerView
-id reserveButton
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3154,7 +3160,6 @@ id shift2
 id shift3
 id shiftText
 id shortcut
-id showButton
 id showCustom
 id showHome
 id showTitle
@@ -3214,6 +3219,7 @@ id textEnd
 id textFecha
 id textFechaMostrar
 id textHello
+id textInputLayout
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -3224,6 +3230,7 @@ id textTurno
 id textTurnoMostrar
 id textUsername
 id textUsernameMostrar
+id textView
 id textView_userName
 id text_input_end_icon
 id text_input_error_icon
@@ -3235,6 +3242,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id texto
+id texto_turnos
 id time
 id title
 id titleDividerNoCustom
@@ -3413,6 +3421,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_mostrar_ticket
+layout activity_reservar_ticket
 layout app_bar_main
 layout content_main
 layout custom_dialog
@@ -3436,6 +3445,7 @@ layout fragment_home
 layout fragment_menu_semanal
 layout info_burguermenu
 layout lista_menu_semanal
+layout lista_turnos
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3667,7 +3677,11 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string seleccionar
 string status_bar_notification_info_overflow
+string turno1
+string turno2
+string turno3
 string zxing_app_name
 string zxing_button_ok
 string zxing_msg_camera_framework_bug

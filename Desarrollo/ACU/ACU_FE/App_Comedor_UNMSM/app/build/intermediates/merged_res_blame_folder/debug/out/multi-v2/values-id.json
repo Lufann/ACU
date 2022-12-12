@@ -4,7 +4,7 @@
             "outputFile": "com.example.app_comedor_unmsm.app-mergeDebugResources-44:/values-id/values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jasmin\\.gradle\\caches\\transforms-3\\72d89173bda68211c52fc083c2d310ba\\transformed\\zxing-android-embedded-4.3.0\\res\\values-id\\values-id.xml",
+                    "source": "/home/phoenixblue02/.gradle/caches/transforms-3/e7c3b6f9a08fff5f85dc6027e17aaab1/transformed/zxing-android-embedded-4.3.0/res/values-id/values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

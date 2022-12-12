@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="turnos">
+        <item>@string/turno1</item>
+        <item>@string/turno2</item>
+        <item>@string/turno3</item>
+    </string-array>
     <color name="background_light_theme">#FAFAF9</color>
     <color name="black">#FF000000</color>
     <color name="btn_light_theme">#B51222</color>
@@ -17,6 +22,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="fab_margin">16dp</dimen>
+    <item name="texto_turnos" type="id"/>
     <string name="action_settings">Settings</string>
     <string name="app_name">App_Comedor_UNMSM</string>
     <string name="close_drawer">Close</string>
@@ -26,6 +32,10 @@
     <string name="menu_semanal">Menu Semanal</string>
     <string name="mostrar_ticket">Ticket</string>
     <string name="open_drawer">Open</string>
+    <string name="seleccionar">Selecionar Turno</string>
+    <string name="turno1">1</string>
+    <string name="turno2">2</string>
+    <string name="turno3">3</string>
     <style name="Theme.App_Comedor_UNMSM" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/sm_bg_color</item>

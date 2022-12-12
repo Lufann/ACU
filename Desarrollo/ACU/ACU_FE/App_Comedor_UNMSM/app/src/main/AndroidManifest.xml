@@ -14,6 +14,13 @@
         android:theme="@style/Theme.App_Comedor_UNMSM"
         tools:targetApi="31">
         <activity
+            android:name=".ReservarTicketActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".MostrarTicketActivity"
             android:exported="false" />
         <activity
