@@ -48,14 +48,14 @@
         android:testOnly="true"
         android:theme="@style/Theme.App_Comedor_UNMSM" >
         <activity
-            android:name="com.example.app_comedor_unmsm.ReservarTicketActivity"
+            android:name="com.example.app_comedor_unmsm.ui.ticket.ReservarTicketActivity"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.example.app_comedor_unmsm.MostrarTicketActivity"
+            android:name="com.example.app_comedor_unmsm.ui.ticket.MostrarTicketActivity"
             android:exported="false" />
         <activity
             android:name="com.example.app_comedor_unmsm.MainActivity"

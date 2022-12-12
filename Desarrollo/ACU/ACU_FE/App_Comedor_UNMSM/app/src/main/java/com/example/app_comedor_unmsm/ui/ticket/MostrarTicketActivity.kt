@@ -1,4 +1,4 @@
-package com.example.app_comedor_unmsm
+package com.example.app_comedor_unmsm.ui.ticket
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,12 +6,11 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.app_comedor_unmsm.MainActivity
+import com.example.app_comedor_unmsm.R
 import com.example.app_comedor_unmsm.databinding.ActivityMostrarTicketBinding
-import com.google.gson.Gson
 import com.google.zxing.BarcodeFormat
 import com.journeyapps.barcodescanner.BarcodeEncoder
-import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.fragment_home.*
 
 class MostrarTicketActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMostrarTicketBinding
@@ -24,7 +23,7 @@ class MostrarTicketActivity : AppCompatActivity() {
         val boton = findViewById<Button>(R.id.buttonVolverMostrarTicket)
 
         boton.setOnClickListener{
-            startActivity(Intent(this,MainActivity::class.java))
+            startActivity(Intent(this, MainActivity::class.java))
         }
         //val userInfo = Gson().fromJson(data, User::class.java)
         val textViewUserName = findViewById<TextView>(R.id.textUsernameMostrar)
