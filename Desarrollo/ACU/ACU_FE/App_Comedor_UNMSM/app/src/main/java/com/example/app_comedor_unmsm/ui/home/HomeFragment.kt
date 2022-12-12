@@ -21,7 +21,10 @@ class HomeFragment : Fragment() {
     ): View?
     {
         val bind = FragmentHomeBinding.inflate(layoutInflater)
-
+       bind.showButton.setOnClickListener{
+            val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java)
+            startActivity((intent))
+       }
         bind.buttonMostrarTicket.setOnClickListener{
             val intent = Intent (this@HomeFragment.requireContext(), MostrarTicketActivity::class.java)
             startActivity((intent))
