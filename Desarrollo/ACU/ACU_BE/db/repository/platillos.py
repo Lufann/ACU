@@ -4,12 +4,12 @@ from schemas.Platillo import PlatilloCreate
 from db.models.Platillo import Platillo
 
 
-def create_new_platillo(Platillo: PlatilloCreate, db: Session):
-    Platillo_object = Platillo(**Platillo.dict())
-    db.add(Platillo_object)
+def create_new_platillo(platillo: PlatilloCreate, db: Session):
+    platillo_object = Platillo(**platillo.dict())
+    db.add(platillo_object)
     db.commit()
-    db.refresh(Platillo_object)
-    return Platillo_object
+    db.refresh(platillo_object)
+    return platillo_object
 
 
 def retreive_platillo(id: int, db: Session):
@@ -18,5 +18,5 @@ def retreive_platillo(id: int, db: Session):
 
 
 def retreive_all_platillos(db: Session):
-    Platillos = db.query(Platillo).all()
-    return Platillos
+    platillos = db.query(Platillo).all()
+    return platillos

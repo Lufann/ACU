@@ -14,3 +14,4 @@ class Estudiante(Base):
     foto_url = Column(String, nullable=True)
     esta_penalizado = Column(Boolean, nullable=False)
     ticket = relationship("Ticket", back_populates="estudiante")
+    es_jedi = Column(Boolean)
